@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5xuJMlOua7y_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">tes3jann</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://5xuJMlOua7y_course_id/6P918is8qXi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Menu Utama</name>
+			<description lang="und">Menu Utama</description>
+		</activity>
+		<activity id="http://5xuJMlOua7y_course_id/6JhL0hurGfV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Menu Materi</name>
+			<description lang="und">Menu Materi</description>
+		</activity>
+		<activity id="http://5xuJMlOua7y_course_id/64vg9i8l7X0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Sistem Bilangan</name>
+			<description lang="und">Sistem Bilangan</description>
+		</activity>
+	</activities>
+</tincan>
